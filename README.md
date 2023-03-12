@@ -9,4 +9,6 @@
 1. Drag dynyx-impound into your resources folder then ensure dynyx-impound in your cfg file.
 
 
-
+## Dependencies
+# QBCore - https://github.com/qbcore-framework/qb-core
+# qb-target - https://github.com/qbcore-framework/qb-target
