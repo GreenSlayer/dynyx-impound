@@ -8,7 +8,8 @@ CreateThread(function()
                 icon = "fas fa-lock",
                 label = "Impound Request",
                 event = "dynyx-impound:client:OpenImpoundMenu",
-                distance = 1.3
+                distance = 1.3,
+                job = "police"
             }
         }
     })
